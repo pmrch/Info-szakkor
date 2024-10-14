@@ -19,14 +19,14 @@ namespace osztaly
         internal void printA()
         {
             // Kör területe
-            double A = Math.Pow(r, 2) * Math.PI;
+            double A = (Math.Pow(r, 2) * Math.PI);
             Console.WriteLine(A);
         }
 
         internal void printP()
         {
             // Kör kerülete
-            double P = 2 * r * Math.PI;
+            double P = (2 * r * Math.PI);
             Console.WriteLine(P);
         }
     }
