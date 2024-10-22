@@ -1,0 +1,15 @@
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\bin\Debug\net8.0\osztaly2.exe
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\bin\Debug\net8.0\osztaly2.deps.json
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\bin\Debug\net8.0\osztaly2.runtimeconfig.json
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\bin\Debug\net8.0\osztaly2.dll
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\bin\Debug\net8.0\osztaly2.pdb
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.AssemblyInfoInputs.cache
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.AssemblyInfo.cs
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.csproj.CoreCompileInputs.cache
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.sourcelink.json
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.dll
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\refint\osztaly2.dll
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.pdb
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\osztaly2.genruntimeconfig.cache
+C:\Users\Zenbook13\source\repos\Info-szakkor\osztaly2\obj\Debug\net8.0\ref\osztaly2.dll
