@@ -1,0 +1,15 @@
+C:\Users\Zenbook13\source\repos\osztaly\bin\Debug\net8.0\osztaly.exe
+C:\Users\Zenbook13\source\repos\osztaly\bin\Debug\net8.0\osztaly.deps.json
+C:\Users\Zenbook13\source\repos\osztaly\bin\Debug\net8.0\osztaly.runtimeconfig.json
+C:\Users\Zenbook13\source\repos\osztaly\bin\Debug\net8.0\osztaly.dll
+C:\Users\Zenbook13\source\repos\osztaly\bin\Debug\net8.0\osztaly.pdb
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.AssemblyInfoInputs.cache
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.AssemblyInfo.cs
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.csproj.CoreCompileInputs.cache
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.dll
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\refint\osztaly.dll
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.pdb
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.genruntimeconfig.cache
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\ref\osztaly.dll
+C:\Users\Zenbook13\source\repos\osztaly\obj\Debug\net8.0\osztaly.sourcelink.json
